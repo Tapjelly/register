@@ -1,1 +1,11 @@
-
+{
+  "owner": {
+    "username": "Tapjelly",
+    "email": "[matthew.brillert@gmail.com]"
+  },
+  "records": {
+    "A": [
+      "143.198.39.228"
+    ]
+  }
+}
